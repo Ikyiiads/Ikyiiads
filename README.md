@@ -11,7 +11,7 @@
 <div align="center">
 
 You have finally discovered my Github profile. <br>
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
+I'm Iky Ads from Indonesia, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. <br>
 Ask me anything <a href="https://github.com/Ikyiiads/Ikyiiads/issues/new"><b>here</b></a><br>
 or <a href="mailto:Ikyiiadsreal@gmail.com"><b>email</b></a> me.
 
